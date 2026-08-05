@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Build and Deploy
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -15,14 +15,31 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
+        with:
+          persist-credentials: true
+
       - uses: oven-sh/setup-bun@v2
+
       - run: bun install
+
       - run: bun run build
+
+      - name: Generate CV, README and LinkedIn
+        run: bunx @jannael/devsync build
+        continue-on-error: true
+
+      - name: Commit generated artifacts
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: 'docs: auto-update artifacts from DEVSYNC.json [skip ci]'
+          file_pattern: ':!DEVSYNC.json'
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./dist
+
       - uses: actions/deploy-pages@v4
