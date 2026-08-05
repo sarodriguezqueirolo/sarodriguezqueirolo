@@ -2,7 +2,7 @@
 	"defaultLang": "es",
 	"site": "https://sarodriguezqueirolo.github.io/sarodriguezqueirolo",
 	"name": "Santiago Alfredo Rodriguez Queirolo",
-	"img": "/imagen.png",
+	"img": "/sarodriguezqueirolo/imagen.png",
 	"socialMedia": [
 		{
 			"name": "LinkedIn",
@@ -34,7 +34,7 @@
 			{
 				"company": "Perezemmalva SLU",
 				"position": "Full Stack Developer",
-				"img": "/perezemmalva.jpeg",
+				"img": "/sarodriguezqueirolo/perezemmalva.jpeg",
 				"web": "https://www.perezemmalva.es/",
 				"description": "Desarrollo, migracion y mantenimiento de ERP y aplicaciones web",
 				"date": "05/2026 - Actualidad",
@@ -79,7 +79,7 @@
 		"projects": [
 			{
 				"name": "Kitchy",
-				"img": "/kitchy.png",
+				"img": "/sarodriguezqueirolo/kitchy.png",
 				"web": "https://kitchyy.up.railway.app/",
 				"links": [
 					{
