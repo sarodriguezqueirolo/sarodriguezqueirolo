@@ -1,6 +1,6 @@
 {
-	"defaultLang": "en",
-	"site": "https://devsync.work",
+	"defaultLang": "es",
+	"site": "https://sarodriguezqueirolo.github.io",
 	"name": "Santiago Alfredo Rodriguez Queirolo",
 	"img": "/imagen.png",
 	"socialMedia": [
@@ -16,7 +16,7 @@
 	"address": "Málaga, España",
 	"email": "sa.rodriguezqueirolo@gmail.com",
 	"phone": "+34 675 206 831",
-	"en": {
+	"es": {
 		"description": "Técnico en Informática y Desarrollador con experiencia en soporte técnico, gestión de CRM (Salesforce) y diseño de arquitecturas backend.",
 		"jobTitle": "Freelance Full-Stack Developer",
 		"status": {
@@ -26,7 +26,7 @@
 		"languages": [
 			{
 				"name": "Español / English",
-				"mdBadge": "![Languages](https://img.shields.io/badge/Languages-Your%20Languages-1f6feb)",
+				"mdBadge": "![Languages](https://img.shields.io/badge/Languages-Espa%C3%B1ol%20%2F%20English-1f6feb)",
 				"icon": "https://cdn.simpleicons.org/googletranslate"
 			}
 		],
@@ -72,21 +72,6 @@
 						"name": "ASP.NET MVC5",
 						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)",
 						"icon": "https://cdn.simpleicons.org/codeforces"
-					},
-					{
-						"name": "ASP.NET MVC5",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)",
-						"icon": "https://cdn.simpleicons.org/codeforces"
-					},
-					{
-						"name": "ASP.NET MVC5",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)",
-						"icon": "https://cdn.simpleicons.org/codeforces"
-					},
-					{
-						"name": "ASP.NET MVC5",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)",
-						"icon": "https://cdn.simpleicons.org/codeforces"
 					}
 				]
 			}
@@ -116,9 +101,9 @@
 				},
 				"skills": [
 					{
-						"name": "Project Skill",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Project%20Skill-61DAFB)",
-						"icon": "https://cdn.simpleicons.org/git"
+						"name": "React",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-React-61DAFB)",
+						"icon": "https://cdn.simpleicons.org/react"
 					}
 				]
 			}
@@ -127,79 +112,7 @@
 			{
 				"name": "Cibertec",
 				"degree": "Técnico en Computacion e Informatica",
-				"img": "https://your-image-url.com/education-image.jpg",
-				"date": "08/2018 - 11/2022",
-				"links": [
-					{
-						"name": "Program URL",
-						"url": "https://your-program-link.com",
-						"mdBadge": "![Program](https://img.shields.io/badge/Program-Details-b45309)",
-						"icon": "https://cdn.simpleicons.org/googlechrome"
-					}
-				],
-				"list": {
-					"title": "education-highlights",
-					"items": [
-						{
-							"highlight": "Academic highlight",
-							"description": "Describe a relevant course, thesis, capstone, or achievement."
-						}
-					]
-				}
-			}
-		],
-		"certifications": [
-			{
-				"name": "Your Certification Name",
-				"url": "https://your-certification-url.com",
-				"list": {
-					"title": "what-this-validates",
-					"items": [
-						{
-							"highlight": "Validated area",
-							"description": "Describe what this certification validates for your profile."
-						}
-					]
-				},
-				"skills": [
-					{
-						"name": "Certification Skill",
-						"mdBadge": "![Certification Skill](https://img.shields.io/badge/Skill-Certification-232F3E)",
-						"icon": "https://cdn.simpleicons.org/coursera"
-					}
-				]
-			}
-		],
-		"openSource": [
-			{
-				"name": "Your Open Source Project Name",
-				"img": "https://your-image-url.com/open-source-image.jpg",
-				"web": "https://your-open-source-project-url.com",
-				"links": [
-					{
-						"name": "GitHub",
-						"url": "https://github.com/your-github-username/your-open-source-repo",
-						"mdBadge": "![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-181717?logo=github&logoColor=white)",
-						"icon": "/icons/github.svg"
-					}
-				],
-				"description": "Describe the open source project and your contribution.",
-				"list": {
-					"title": "open-source-highlights",
-					"items": [
-						{
-							"highlight": "Contribution highlight",
-							"description": "Describe one concrete contribution, feature, or impact from this open source project."
-						}
-					]
-				},
-				"skills": [
-					{
-						"name": "Open Source Skill",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Open%20Source-34A853)",
-						"icon": "https://cdn.simpleicons.org/git"
-					}
-				]
+				"date": "08/2018 - 11/2022"
 			}
 		]
 	}
