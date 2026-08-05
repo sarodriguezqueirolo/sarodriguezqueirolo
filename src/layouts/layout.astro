@@ -33,7 +33,7 @@ if (!Astro.site && !devsync.site) {
 }
 
 const site = Astro.site ? Astro.site.toString().replace(/\/$/, '') : devsync.site ?? 'https://devsync.work'
-const canonicalUrl = site + (Astro.url.pathname === '/' ? '/' : Astro.url.pathname.replace(/\/$/, '/'))
+const canonicalUrl = new URL(Astro.url.pathname, site).toString()
 const ogImageUrl = site + '/poster-dark-mode.webp'
 const ogImageAlt = `${devsync.name} - ${profile?.jobTitle || 'Professional Profile'}`
 const homeUrl = site + '/'
