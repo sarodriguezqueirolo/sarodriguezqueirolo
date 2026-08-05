@@ -13,6 +13,8 @@ export default defineConfig({
 
 	site: devsync.site,
 
+	base: '/sarodriguezqueirolo',
+
 	i18n: {
 		defaultLocale: defaultLang,
 		locales: languages,
