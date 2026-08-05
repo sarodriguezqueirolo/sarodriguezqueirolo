@@ -7,7 +7,7 @@
 		{
 			"name": "LinkedIn",
 			"url": "https://www.linkedin.com/in/alfredo-rodriguez-695b603bb",
-			"icon": "/icons/linkedin.svg",
+			"icon": "/sarodriguezqueirolo/icons/linkedin.svg",
 			"mdBadge": "![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)"
 		}
 	],
@@ -105,6 +105,21 @@
 						"name": "Docker",
 						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Docker-2496ED?logo=docker&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/docker"
+					},
+					{
+						"name": "GROQ",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-GROQ-2496ED?logo=groq&logoColor=white)",
+						"icon": "https://cdn.simpleicons.org/groq"
+					},
+					{
+						"name": "Sanity CMS",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Sanity%20CMS-2496ED?logo=sanity&logoColor=white)",
+						"icon": "https://cdn.simpleicons.org/sanity"
+					},
+					{
+						"name": "TypeScript",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-TypeScript-2496ED?logo=typescript&logoColor=white)",
+						"icon": "https://cdn.simpleicons.org/typescript"
 					}
 				]
 			}
@@ -119,7 +134,7 @@
 						"name": "GitHub",
 						"url": "https://github.com/sarodriguezqueirolo/inventario-restaurante",
 						"mdBadge": "![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-181717?logo=github&logoColor=white)",
-						"icon": "/icons/github.svg"
+						"icon": "/sarodriguezqueirolo/icons/github.svg"
 					}
 				],
 				"description": "Sistema de gestión de inventario para restaurantes, con funcionalidades de gestión de recetas, ingredientes y platos.",
@@ -137,6 +152,31 @@
 						"name": "React",
 						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-React-61DAFB)",
 						"icon": "https://cdn.simpleicons.org/react"
+					},
+					{
+						"name": "Python",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Python-61DAFB)",
+						"icon": "https://cdn.simpleicons.org/python"
+					},
+					{
+						"name": "FastAPI",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-FastAPI-61DAFB)",
+						"icon": "https://cdn.simpleicons.org/fastapi"
+					},
+					{
+						"name": "PostgreSQL",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-PostgreSQL-61DAFB)",
+						"icon": "https://cdn.simpleicons.org/postgresql"
+					},
+					{
+						"name": "SQLAlchemy",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-SQLAlchemy-61DAFB)",
+						"icon": "https://cdn.simpleicons.org/sqlalchemy"
+					}
+					{
+						"name": "Deepseek v4",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Opencode-61DAFB)",
+						"icon": "https://cdn.simpleicons.org/Deepseek"
 					}
 				]
 			}
