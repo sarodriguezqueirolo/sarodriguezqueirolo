@@ -74,6 +74,39 @@
 						"icon": "https://cdn.simpleicons.org/codeforces"
 					}
 				]
+			},
+			{
+				"company": "Perezemmalva SLU",
+				"position": "Full Stack Developer",
+				"img": "/sarodriguezqueirolo/perezemmalva.jpeg",
+				"web": "https://www.perezemmalva.es/",
+				"description": "Desarrollo y mantenimiento de plataforma E-commerce con Next.js y Sanity CMS",
+				"date": "05/2026 - Actualidad",
+				"list": {
+					"title": "E-commerce — Next.js + Sanity CMS",
+					"items": [
+						{
+							"highlight": "Mantenimiento de infraestructura en VPS",
+							"description": "Gestión de contenedores Docker, renovación de certificados SSL y resolución de caídas del motor de búsqueda"
+						},
+						{
+							"highlight": "Auditoría de datos vía GROQ",
+							"description": "Detección de ~€60k en inventario no publicado y corrección de stock inconsistente"
+						}
+					]
+				},
+				"skills": [
+					{
+						"name": "Next.js",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Next.js-000000?logo=next.js&logoColor=white)",
+						"icon": "https://cdn.simpleicons.org/nextdotjs"
+					},
+					{
+						"name": "Docker",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Docker-2496ED?logo=docker&logoColor=white)",
+						"icon": "https://cdn.simpleicons.org/docker"
+					}
+				]
 			}
 		],
 		"projects": [
