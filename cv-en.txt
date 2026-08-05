@@ -1,0 +1,52 @@
+============================================================
+YOUR FULL NAME
+Your Current Job Title
+============================================================
+
+your-email@example.com | +1 123 456 7890 | Your City, Country | https://devsync.work
+LinkedIn: https://www.linkedin.com/in/your-linkedin-handle
+Github Profile: https://github.com/your-github-username
+
+------------------------------------------------------------
+DESCRIPTION
+------------------------------------------------------------
+Write a short professional summary about yourself. Example: Full-stack developer focused on developer experience, performance, and product quality.
+
+------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
+------------------------------------------------------------
+
+Your Position Title - Your Company Name (MM/YY - Present)
+  Describe your role and impact in one concise sentence.
+  - Achievement headline: Describe one measurable result you delivered (performance, revenue, growth, reliability, etc.).
+
+------------------------------------------------------------
+PROJECTS
+------------------------------------------------------------
+
+Your Project Name
+  Describe what the project does and why it matters.
+  - Technical highlight: Describe one concrete technical decision or outcome from this project.
+  - GitHub: https://github.com/your-github-username/your-project-repo
+
+------------------------------------------------------------
+EDUCATION
+------------------------------------------------------------
+
+Your Degree / Program - Your University or Institution (MM/YY - MM/YY)
+  - Academic highlight: Describe a relevant course, thesis, capstone, or achievement.
+
+------------------------------------------------------------
+CERTIFICATIONS
+------------------------------------------------------------
+  - Your Certification Name: https://your-certification-url.com
+
+------------------------------------------------------------
+CORE SKILLS
+------------------------------------------------------------
+Core Skill 1 | Core Skill 2 | Core Skill 3 | Your Key Skill | Project Skill | Certification Skill
+
+------------------------------------------------------------
+LANGUAGES
+------------------------------------------------------------
+  - Your Language 1 / Your Language 2
