@@ -1,0 +1,49 @@
+============================================================
+SANTIAGO ALFREDO RODRIGUEZ QUEIROLO
+Freelance Full-Stack Developer
+============================================================
+
+sa.rodriguezqueirolo@gmail.com | +34 675 206 831 | Málaga, España | https://sarodriguezqueirolo.github.io
+LinkedIn: https://www.linkedin.com/in/alfredo-rodriguez-695b603bb
+Perfil de Github: https://github.com/sarodriguezqueirolo
+
+------------------------------------------------------------
+DESCRIPCIÓN
+------------------------------------------------------------
+Técnico en Informática y Desarrollador con experiencia en soporte técnico, gestión de CRM (Salesforce) y diseño de arquitecturas backend.
+
+------------------------------------------------------------
+EXPERIENCIA PROFESIONAL
+------------------------------------------------------------
+
+Full Stack Developer - Perezemmalva SLU (05/2026 - Actualidad)
+  Desarrollo, migracion y mantenimiento de ERP y aplicaciones web
+  - Optimización de performance: Reducción de consulta N+1 (133 queries → 1) e implementación de paginación server-side con DataTables
+  - Corrección de vulnerabilidad de SQL injection: Corrección de vulnerabilidad de SQL injection en capa de acceso a datos
+  - Migración de librería de generación de PDFs: Migración de librería de generación de PDFs (wkhtmltopdf → iTextSharp)
+  - Recuperación de infraestructura sin documentación: Identificación del hosting real mediante análisis forense de DNS - Gestión de despliegues manuales a producción en ausencia de CI/CD
+
+------------------------------------------------------------
+PROYECTOS
+------------------------------------------------------------
+
+Kitchy
+  Sistema de gestión de inventario para restaurantes, con funcionalidades de gestión de recetas, ingredientes y platos.
+  - Gestión integral de inventario: Control de recetas, ingredientes y platos en tiempo real con alertas automáticas de stock bajo.
+  - GitHub: https://github.com/sarodriguezqueirolo/inventario-restaurante
+
+------------------------------------------------------------
+EDUCACIÓN
+------------------------------------------------------------
+
+Técnico en Computacion e Informatica - Cibertec (08/2018 - 11/2022)
+
+------------------------------------------------------------
+HABILIDADES PRINCIPALES
+------------------------------------------------------------
+Python | PostgreSQL | Linux | Docker | React | ASP.NET MVC5
+
+------------------------------------------------------------
+IDIOMAS
+------------------------------------------------------------
+  - Español / English

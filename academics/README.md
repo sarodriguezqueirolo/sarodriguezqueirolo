@@ -1,15 +1,15 @@
-# Academics 
+# Historial académico 
 
 <table>
 <tr>
 <td>
 <h3>Cibertec | Técnico en Computacion e Informatica | 08/2018 - 11/2022</h3>
 
-[![Program](https://img.shields.io/badge/Program-Details-b45309)](https://your-program-link.com)
+
 <br>
-education-highlights
+---
 <ul>
-<li><strong>Academic highlight</strong> Describe a relevant course, thesis, capstone, or achievement.</li>
+
 </ul>
 </br>
 </td>
@@ -17,26 +17,13 @@ education-highlights
 <td width="40%">
   <a href="#" target="_blank" rel="noopener noreferrer">
     <picture>
-      <img alt="Técnico en Computacion e Informatica" src="https://your-image-url.com/education-image.jpg" width="100%"/>
+      <img alt="Técnico en Computacion e Informatica" src="" width="100%"/>
     </picture>
   </a>
 </td>
 </tr></table> 
 
-## Certifications 
+## Certificaciones 
 
-<table>
-<tr>
-<td>
-<h3>Your Certification Name</h3>
-what-this-validates
-<ul>
-  <li><strong>Validated area</strong> Describe what this certification validates for your profile.</li>
-</ul>
-</br>
-
-![Certification Skill](https://img.shields.io/badge/Skill-Certification-232F3E)
-</td>
-<td> <a href="https://your-certification-url.com" target="_blank">View Certificate</a> </td>
-</tr></table> 
+<table></table> 
 

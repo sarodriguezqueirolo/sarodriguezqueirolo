@@ -4,9 +4,9 @@
 
 Técnico en Informática y Desarrollador con experiencia en soporte técnico, gestión de CRM (Salesforce) y diseño de arquitecturas backend.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-rodriguez-695b603bb)[![Academics](https://img.shields.io/badge/Academics-9C27B0?style=flat&logo=education&logoColor=white)](https://github.com/sarodriguezqueirolo/sarodriguezqueirolo/tree/main/academics)![Languages](https://img.shields.io/badge/Languages-Your%20Languages-1f6feb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-rodriguez-695b603bb)[![Academics](https://img.shields.io/badge/Academics-9C27B0?style=flat&logo=education&logoColor=white)](https://github.com/sarodriguezqueirolo/sarodriguezqueirolo/tree/main/academics)![Languages](https://img.shields.io/badge/Languages-Espa%C3%B1ol%20%2F%20English-1f6feb)
 
-## Professional Experience 
+## Experiencia profesional 
 
 <table>
 <tr>
@@ -21,7 +21,7 @@ Backoffice legacy — ASP.NET MVC5
 </ul>
 </br>
 
-![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)
+![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)
 </td>
 
 <td width="40%">
@@ -33,7 +33,7 @@ Backoffice legacy — ASP.NET MVC5
 </td>
 </tr></table> 
 
-## Projects 
+## Proyectos 
 
 <table>
 <tr>
@@ -48,7 +48,7 @@ Kitchy highlights
 </ul>
 </br>
 
-![Skill](https://img.shields.io/badge/Skill-Project%20Skill-61DAFB)
+![Skill](https://img.shields.io/badge/Skill-React-61DAFB)
 </td>
 
 <td width="40%">
@@ -60,30 +60,7 @@ Kitchy highlights
 </td>
 </tr></table> 
 
-## Open Source 
+## Código Abierto 
 
-<table>
-<tr>
-<td>
-<h3>Your Open Source Project Name</h3>
-
-[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-181717?logo=github&logoColor=white)](https://github.com/your-github-username/your-open-source-repo)
-<p>Describe the open source project and your contribution.</p>
-open-source-highlights
-<ul>
-<li><strong>Contribution highlight</strong> Describe one concrete contribution, feature, or impact from this open source project.</li>
-</ul>
-</br>
-
-![Skill](https://img.shields.io/badge/Skill-Open%20Source-34A853)
-</td>
-
-<td width="40%">
-  <a href="https://your-open-source-project-url.com" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <img alt="Your Open Source Project Name" src="https://your-image-url.com/open-source-image.jpg" width="100%"/>
-    </picture>
-  </a>
-</td>
-</tr></table> 
+<table></table> 
 
