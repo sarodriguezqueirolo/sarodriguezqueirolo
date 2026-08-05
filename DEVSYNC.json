@@ -72,12 +72,32 @@
 						"name": "ASP.NET MVC5",
 						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)",
 						"icon": "https://cdn.simpleicons.org/codeforces"
+					},
+					{
+						"name": "C#",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-C%23-339933)",
+						"icon": "https://cdn.simpleicons.org/csharp"
+					},
+					{
+						"name": "Microsoft SQL Server",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-SQL%20Server-339933)",
+						"icon": "https://cdn.simpleicons.org/microsoftsqlserver"
+					},
+					{
+						"name": "Deploy via FTP",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-FTP-339933)",
+						"icon": "https://cdn.simpleicons.org/filezilla"
+					},
+					{
+						"name": "Opencode",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Opencode-339933)",
+						"icon": "https://cdn.simpleicons.org/opencode"
 					}
 				]
 			},
 			{
 				"company": "Termogar.es",
-				"position": "Full Stack Developer",
+				"position": "Desarrollador Web",
 				"web": "https://termogar.es",
 				"description": "Mantenimiento web de plataforma E-commerce con Next.js y Sanity CMS",
 				"date": "06/2026 - Actualidad",
@@ -101,6 +121,11 @@
 						"icon": "https://cdn.simpleicons.org/nextdotjs"
 					},
 					{
+						"name": "TypeScript",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-TypeScript-3178C6?logo=typescript&logoColor=white)",
+						"icon": "https://cdn.simpleicons.org/typescript"
+					},
+					{
 						"name": "GROQ",
 						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-GROQ-2496ED?logo=groq&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/groq"
@@ -109,6 +134,11 @@
 						"name": "Sanity CMS",
 						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Sanity%20CMS-2496ED?logo=sanity&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/sanity"
+					},
+					{
+						"name": "Opencode",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Opencode-2496ED)",
+						"icon": "https://cdn.simpleicons.org/opencode"
 					}
 				]
 			}
