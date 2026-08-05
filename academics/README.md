@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-<h3>Your University or Institution | Your Degree / Program | MM/YY - MM/YY</h3>
+<h3>Cibertec | Técnico en Computacion e Informatica | 08/2018 - 11/2022</h3>
 
 [![Program](https://img.shields.io/badge/Program-Details-b45309)](https://your-program-link.com)
 <br>
@@ -17,7 +17,7 @@ education-highlights
 <td width="40%">
   <a href="#" target="_blank" rel="noopener noreferrer">
     <picture>
-      <img alt="Your Degree / Program" src="https://your-image-url.com/education-image.jpg" width="100%"/>
+      <img alt="Técnico en Computacion e Informatica" src="https://your-image-url.com/education-image.jpg" width="100%"/>
     </picture>
   </a>
 </td>

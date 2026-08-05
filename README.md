@@ -1,33 +1,33 @@
-# Your Current Job Title
+# Freelance Full-Stack Developer
 
-![Status](https://img.shields.io/badge/Status-Your%20Status-blue)
+![Status](https://img.shields.io/badge/Status-Seeking%20new%20challenges-blue)
 
-Write a short professional summary about yourself. Example: Full-stack developer focused on developer experience, performance, and product quality.
+Técnico en Informática y Desarrollador con experiencia en soporte técnico, gestión de CRM (Salesforce) y diseño de arquitecturas backend.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-handle)[![Academics](https://img.shields.io/badge/Academics-9C27B0?style=flat&logo=education&logoColor=white)](https://github.com/your-github-username/your-github-username/tree/main/academics)![Languages](https://img.shields.io/badge/Languages-Your%20Languages-1f6feb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-rodriguez-695b603bb)[![Academics](https://img.shields.io/badge/Academics-9C27B0?style=flat&logo=education&logoColor=white)](https://github.com/sarodriguezqueirolo/sarodriguezqueirolo/tree/main/academics)![Languages](https://img.shields.io/badge/Languages-Your%20Languages-1f6feb)
 
 ## Professional Experience 
 
 <table>
 <tr>
 <td>
-<h3>Your Company Name</h3>
+<h3>Perezemmalva SLU</h3>
 
-[![Company](https://img.shields.io/badge/Company-Website-0ea5e9)](https://your-company-website.com)
-<p>Describe your role and impact in one concise sentence.</p>
-key-achievements
+[![Company](https://img.shields.io/badge/Company-Website-0ea5e9)](https://www.perezemmalva.es/)
+<p>Desarrollo, migracion y mantenimiento de ERP y aplicaciones web</p>
+Backoffice legacy — ASP.NET MVC5
 <ul>
-<li><strong>Achievement headline</strong> Describe one measurable result you delivered (performance, revenue, growth, reliability, etc.).</li>
+<li><strong>Optimización de performance</strong> Reducción de consulta N+1 (133 queries → 1) e implementación de paginación server-side con DataTables</li><li><strong>Corrección de vulnerabilidad de SQL injection</strong> Corrección de vulnerabilidad de SQL injection en capa de acceso a datos</li><li><strong>Migración de librería de generación de PDFs</strong> Migración de librería de generación de PDFs (wkhtmltopdf → iTextSharp)</li><li><strong>Recuperación de infraestructura sin documentación</strong> Identificación del hosting real mediante análisis forense de DNS - Gestión de despliegues manuales a producción en ausencia de CI/CD</li>
 </ul>
 </br>
 
-![Skill](https://img.shields.io/badge/Skill-Your%20Skill-339933)
+![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)
 </td>
 
 <td width="40%">
-  <a href="https://your-company-website.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.perezemmalva.es/" target="_blank" rel="noopener noreferrer">
     <picture>
-      <img alt="Your Company Name" src="https://your-image-url.com/company-image.jpg" width="100%"/>
+      <img alt="Perezemmalva SLU" src="/perezemmalva.jpeg" width="100%"/>
     </picture>
   </a>
 </td>
@@ -38,13 +38,13 @@ key-achievements
 <table>
 <tr>
 <td>
-<h3>Your Project Name</h3>
+<h3>Kitchy</h3>
 
-[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-181717?logo=github&logoColor=white)](https://github.com/your-github-username/your-project-repo)
-<p>Describe what the project does and why it matters.</p>
-project-highlights
+[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-181717?logo=github&logoColor=white)](https://github.com/sarodriguezqueirolo/inventario-restaurante)
+<p>Sistema de gestión de inventario para restaurantes, con funcionalidades de gestión de recetas, ingredientes y platos.</p>
+Kitchy highlights
 <ul>
-<li><strong>Technical highlight</strong> Describe one concrete technical decision or outcome from this project.</li>
+<li><strong>Gestión integral de inventario</strong> Control de recetas, ingredientes y platos en tiempo real con alertas automáticas de stock bajo.</li>
 </ul>
 </br>
 
@@ -52,9 +52,9 @@ project-highlights
 </td>
 
 <td width="40%">
-  <a href="https://your-project-url.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://kitchyy.up.railway.app/" target="_blank" rel="noopener noreferrer">
     <picture>
-      <img alt="Your Project Name" src="https://your-image-url.com/project-image.jpg" width="100%"/>
+      <img alt="Kitchy" src="/kitchy.png" width="100%"/>
     </picture>
   </a>
 </td>
