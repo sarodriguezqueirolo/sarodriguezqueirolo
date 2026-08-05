@@ -1,64 +1,91 @@
 {
-	"defaultLang": "en",
+	"defaultLang": "es",
 	"site": "https://devsync.work",
-	"name": "Your Full Name",
-	"img": "https://your-image-url.com/your-image.jpg",
+	"name": "Santiago Alfredo Rodriguez Queirolo",
+	"img": "/imagen.png",
 	"socialMedia": [
 		{
 			"name": "LinkedIn",
-			"url": "https://www.linkedin.com/in/your-linkedin-handle",
+			"url": "https://www.linkedin.com/in/alfredo-rodriguez-695b603bb",
 			"icon": "/icons/linkedin.svg",
 			"mdBadge": "![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)"
 		}
 	],
-	"githubUserName": "your-github-username",
-	"coreSkills": ["Core Skill 1", "Core Skill 2", "Core Skill 3"],
-	"address": "Your City, Country",
-	"email": "your-email@example.com",
-	"phone": "+1 123 456 7890",
+	"githubUserName": "sarodriguezqueirolo",
+	"coreSkills": ["Python", "PostgreSQL", "Linux", "Docker", "React"],
+	"address": "Málaga, España",
+	"email": "sa.rodriguezqueirolo@gmail.com",
+	"phone": "+34 675 206 831",
 	"en": {
-		"description": "Write a short professional summary about yourself. Example: Full-stack developer focused on developer experience, performance, and product quality.",
-		"jobTitle": "Your Current Job Title",
+		"description": "Técnico en Informática y Desarrollador con experiencia en soporte técnico, gestión de CRM (Salesforce) y diseño de arquitecturas backend.",
+		"jobTitle": "Freelance Full-Stack Developer",
 		"status": {
-			"status": "your-status",
-			"badge": "![Status](https://img.shields.io/badge/Status-Your%20Status-blue)"
+			"status": "Seeking new challenges",
+			"badge": "![Status](https://img.shields.io/badge/Status-Seeking%20new%20challenges-blue)"
 		},
 		"languages": [
 			{
-				"name": "Your Language 1 / Your Language 2",
+				"name": "Español / English",
 				"mdBadge": "![Languages](https://img.shields.io/badge/Languages-Your%20Languages-1f6feb)",
 				"icon": "https://cdn.simpleicons.org/googletranslate"
 			}
 		],
 		"experience": [
 			{
-				"company": "Your Company Name",
-				"position": "Your Position Title",
-				"img": "https://your-image-url.com/company-image.jpg",
-				"web": "https://your-company-website.com",
-				"description": "Describe your role and impact in one concise sentence.",
-				"date": "MM/YY - Present",
+				"company": "Perezemmalva SLU",
+				"position": "Full Stack Developer",
+				"img": "/perezemmalva.jpeg",
+				"web": "https://www.perezemmalva.es/",
+				"description": "Desarrollo, migracion y mantenimiento de ERP y aplicaciones web",
+				"date": "05/2026 - Actualidad",
 				"links": [
 					{
-						"name": "Company Website",
-						"url": "https://your-company-website.com",
+						"name": "perezemmalva.es",
+						"url": "https://www.perezemmalva.es/",
 						"mdBadge": "![Company](https://img.shields.io/badge/Company-Website-0ea5e9)",
 						"icon": "https://cdn.simpleicons.org/googlechrome"
 					}
 				],
 				"list": {
-					"title": "key-achievements",
+					"title": "Backoffice legacy — ASP.NET MVC5",
 					"items": [
 						{
-							"highlight": "Achievement headline",
-							"description": "Describe one measurable result you delivered (performance, revenue, growth, reliability, etc.)."
+							"highlight": "Optimización de performance",
+							"description": "Reducción de consulta N+1 (133 queries → 1) e implementación de paginación server-side con DataTables"
+						},
+						{
+							"highlight": "Corrección de vulnerabilidad de SQL injection",
+							"description": "Corrección de vulnerabilidad de SQL injection en capa de acceso a datos"
+						},
+						{
+							"highlight": "Migración de librería de generación de PDFs",
+							"description": "Migración de librería de generación de PDFs (wkhtmltopdf → iTextSharp)"
+						},
+						{
+							"highlight": "Recuperación de infraestructura sin documentación",
+							"description": "Identificación del hosting real mediante análisis forense de DNS - Gestión de despliegues manuales a producción en ausencia de CI/CD"
 						}
 					]
 				},
 				"skills": [
 					{
-						"name": "Your Key Skill",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Your%20Skill-339933)",
+						"name": "ASP.NET MVC5",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)",
+						"icon": "https://cdn.simpleicons.org/codeforces"
+					},
+					{
+						"name": "ASP.NET MVC5",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)",
+						"icon": "https://cdn.simpleicons.org/codeforces"
+					},
+					{
+						"name": "ASP.NET MVC5",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)",
+						"icon": "https://cdn.simpleicons.org/codeforces"
+					},
+					{
+						"name": "ASP.NET MVC5",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)",
 						"icon": "https://cdn.simpleicons.org/codeforces"
 					}
 				]
@@ -66,24 +93,24 @@
 		],
 		"projects": [
 			{
-				"name": "Your Project Name",
-				"img": "https://your-image-url.com/project-image.jpg",
-				"web": "https://your-project-url.com",
+				"name": "Kitchy",
+				"img": "/kitchy.png",
+				"web": "https://kitchyy.up.railway.app/",
 				"links": [
 					{
 						"name": "GitHub",
-						"url": "https://github.com/your-github-username/your-project-repo",
+						"url": "https://github.com/sarodriguezqueirolo/inventario-restaurante",
 						"mdBadge": "![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-181717?logo=github&logoColor=white)",
 						"icon": "/icons/github.svg"
 					}
 				],
-				"description": "Describe what the project does and why it matters.",
+				"description": "Sistema de gestión de inventario para restaurantes, con funcionalidades de gestión de recetas, ingredientes y platos.",
 				"list": {
-					"title": "project-highlights",
+					"title": "Kitchy highlights",
 					"items": [
 						{
-							"highlight": "Technical highlight",
-							"description": "Describe one concrete technical decision or outcome from this project."
+							"highlight": "Gestión integral de inventario",
+							"description": "Control de recetas, ingredientes y platos en tiempo real con alertas automáticas de stock bajo."
 						}
 					]
 				},
@@ -98,10 +125,10 @@
 		],
 		"education": [
 			{
-				"name": "Your University or Institution",
-				"degree": "Your Degree / Program",
+				"name": "Cibertec",
+				"degree": "Técnico en Computacion e Informatica",
 				"img": "https://your-image-url.com/education-image.jpg",
-				"date": "MM/YY - MM/YY",
+				"date": "08/2018 - 11/2022",
 				"links": [
 					{
 						"name": "Program URL",
