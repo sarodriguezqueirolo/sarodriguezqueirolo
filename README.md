@@ -27,7 +27,30 @@ Backoffice legacy — ASP.NET MVC5
 <td width="40%">
   <a href="https://www.perezemmalva.es/" target="_blank" rel="noopener noreferrer">
     <picture>
-      <img alt="Perezemmalva SLU" src="/perezemmalva.jpeg" width="100%"/>
+      <img alt="Perezemmalva SLU" src="/sarodriguezqueirolo/perezemmalva.jpeg" width="100%"/>
+    </picture>
+  </a>
+</td>
+</tr>
+<tr>
+<td>
+<h3>Perezemmalva SLU</h3>
+
+
+<p>Desarrollo y mantenimiento de plataforma E-commerce con Next.js y Sanity CMS</p>
+E-commerce — Next.js + Sanity CMS
+<ul>
+<li><strong>Mantenimiento de infraestructura en VPS</strong> Gestión de contenedores Docker, renovación de certificados SSL y resolución de caídas del motor de búsqueda</li><li><strong>Auditoría de datos vía GROQ</strong> Detección de ~€60k en inventario no publicado y corrección de stock inconsistente</li>
+</ul>
+</br>
+
+![Skill](https://img.shields.io/badge/Skill-Next.js-000000?logo=next.js&logoColor=white)![Skill](https://img.shields.io/badge/Skill-Docker-2496ED?logo=docker&logoColor=white)![Skill](https://img.shields.io/badge/Skill-GROQ-2496ED?logo=groq&logoColor=white)![Skill](https://img.shields.io/badge/Skill-Sanity%20CMS-2496ED?logo=sanity&logoColor=white)![Skill](https://img.shields.io/badge/Skill-TypeScript-2496ED?logo=typescript&logoColor=white)
+</td>
+
+<td width="40%">
+  <a href="https://www.perezemmalva.es/" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <img alt="Perezemmalva SLU" src="/sarodriguezqueirolo/perezemmalva.jpeg" width="100%"/>
     </picture>
   </a>
 </td>
@@ -48,13 +71,13 @@ Kitchy highlights
 </ul>
 </br>
 
-![Skill](https://img.shields.io/badge/Skill-React-61DAFB)
+![Skill](https://img.shields.io/badge/Skill-React-61DAFB)![Skill](https://img.shields.io/badge/Skill-Python-61DAFB)![Skill](https://img.shields.io/badge/Skill-FastAPI-61DAFB)![Skill](https://img.shields.io/badge/Skill-PostgreSQL-61DAFB)![Skill](https://img.shields.io/badge/Skill-SQLAlchemy-61DAFB)![Skill](https://img.shields.io/badge/Skill-Opencode-61DAFB)
 </td>
 
 <td width="40%">
   <a href="https://kitchyy.up.railway.app/" target="_blank" rel="noopener noreferrer">
     <picture>
-      <img alt="Kitchy" src="/kitchy.png" width="100%"/>
+      <img alt="Kitchy" src="/sarodriguezqueirolo/kitchy.svg" width="100%"/>
     </picture>
   </a>
 </td>

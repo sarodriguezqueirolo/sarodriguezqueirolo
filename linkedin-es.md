@@ -12,6 +12,10 @@ Técnico en Informática y Desarrollador con experiencia en soporte técnico, ge
  - Corrección de vulnerabilidad de SQL injection: Corrección de vulnerabilidad de SQL injection en capa de acceso a datos
  - Migración de librería de generación de PDFs: Migración de librería de generación de PDFs (wkhtmltopdf → iTextSharp)
  - Recuperación de infraestructura sin documentación: Identificación del hosting real mediante análisis forense de DNS - Gestión de despliegues manuales a producción en ausencia de CI/CD
+- **Full Stack Developer** at **Perezemmalva SLU** (05/2026 - Actualidad)
+ - Desarrollo y mantenimiento de plataforma E-commerce con Next.js y Sanity CMS
+ - Mantenimiento de infraestructura en VPS: Gestión de contenedores Docker, renovación de certificados SSL y resolución de caídas del motor de búsqueda
+ - Auditoría de datos vía GROQ: Detección de ~€60k en inventario no publicado y corrección de stock inconsistente
 
 ## Proyectos destacados 
 
@@ -22,7 +26,7 @@ Técnico en Informática y Desarrollador con experiencia en soporte técnico, ge
 
 ## Habilidades principales 
 
-ASP.NET MVC5 | React
+ASP.NET MVC5 | Next.js | Docker | GROQ | Sanity CMS | TypeScript | React | Python | FastAPI | PostgreSQL | SQLAlchemy | Opencode
 
 ## Conectemos 
 
