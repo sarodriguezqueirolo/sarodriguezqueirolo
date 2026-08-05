@@ -172,11 +172,11 @@
 						"name": "SQLAlchemy",
 						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-SQLAlchemy-61DAFB)",
 						"icon": "https://cdn.simpleicons.org/sqlalchemy"
-					}
+					},
 					{
-						"name": "Deepseek v4",
+						"name": "Opencode",
 						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Opencode-61DAFB)",
-						"icon": "https://cdn.simpleicons.org/Deepseek"
+						"icon": "https://cdn.simpleicons.org/opencode"
 					}
 				]
 			}
