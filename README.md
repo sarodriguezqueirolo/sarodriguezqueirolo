@@ -21,36 +21,36 @@ Backoffice legacy — ASP.NET MVC5
 </ul>
 </br>
 
-![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)
+![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-512BD4?logo=dotnet&logoColor=white)![Skill](https://img.shields.io/badge/Skill-C%23-239120?logo=csharp&logoColor=white)![Skill](https://img.shields.io/badge/Skill-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)![Skill](https://img.shields.io/badge/Skill-FTP-BF0000?logo=filezilla&logoColor=white)![Skill](https://img.shields.io/badge/Skill-Opencode-339933)
 </td>
 
 <td width="40%">
   <a href="https://www.perezemmalva.es/" target="_blank" rel="noopener noreferrer">
     <picture>
-      <img alt="Perezemmalva SLU" src="/sarodriguezqueirolo/perezemmalva.jpeg" width="100%"/>
+      <img alt="Perezemmalva SLU" src="https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/perezemmalva.jpeg" width="100%"/>
     </picture>
   </a>
 </td>
 </tr>
 <tr>
 <td>
-<h3>Perezemmalva SLU</h3>
+<h3>Termogar.es</h3>
 
-
-<p>Desarrollo y mantenimiento de plataforma E-commerce con Next.js y Sanity CMS</p>
+[![Company](https://img.shields.io/badge/Company-Website-0ea5e9)](https://termogar.es)
+<p>Mantenimiento web de plataforma E-commerce con Next.js y Sanity CMS</p>
 E-commerce — Next.js + Sanity CMS
 <ul>
-<li><strong>Mantenimiento de infraestructura en VPS</strong> Gestión de contenedores Docker, renovación de certificados SSL y resolución de caídas del motor de búsqueda</li><li><strong>Auditoría de datos vía GROQ</strong> Detección de ~€60k en inventario no publicado y corrección de stock inconsistente</li>
+<li><strong>Mantenimiento web</strong> Mantenimiento de plataforma E-commerce con Next.js y Sanity CMS</li><li><strong>Auditoría de datos vía GROQ</strong> Detección de ~€60k en inventario no publicado y corrección de stock inconsistente</li>
 </ul>
 </br>
 
-![Skill](https://img.shields.io/badge/Skill-Next.js-000000?logo=next.js&logoColor=white)![Skill](https://img.shields.io/badge/Skill-Docker-2496ED?logo=docker&logoColor=white)![Skill](https://img.shields.io/badge/Skill-GROQ-2496ED?logo=groq&logoColor=white)![Skill](https://img.shields.io/badge/Skill-Sanity%20CMS-2496ED?logo=sanity&logoColor=white)![Skill](https://img.shields.io/badge/Skill-TypeScript-2496ED?logo=typescript&logoColor=white)
+![Skill](https://img.shields.io/badge/Skill-Next.js-000000?logo=next.js&logoColor=white)![Skill](https://img.shields.io/badge/Skill-TypeScript-3178C6?logo=typescript&logoColor=white)![Skill](https://img.shields.io/badge/Skill-GROQ-2496ED?logo=groq&logoColor=white)![Skill](https://img.shields.io/badge/Skill-Sanity%20CMS-2496ED?logo=sanity&logoColor=white)![Skill](https://img.shields.io/badge/Skill-Opencode-2496ED)
 </td>
 
 <td width="40%">
-  <a href="https://www.perezemmalva.es/" target="_blank" rel="noopener noreferrer">
+  <a href="https://termogar.es" target="_blank" rel="noopener noreferrer">
     <picture>
-      <img alt="Perezemmalva SLU" src="/sarodriguezqueirolo/perezemmalva.jpeg" width="100%"/>
+      <img alt="Termogar.es" src="https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/termogar_logo1-02.webp" width="100%"/>
     </picture>
   </a>
 </td>
@@ -71,19 +71,15 @@ Kitchy highlights
 </ul>
 </br>
 
-![Skill](https://img.shields.io/badge/Skill-React-61DAFB)![Skill](https://img.shields.io/badge/Skill-Python-61DAFB)![Skill](https://img.shields.io/badge/Skill-FastAPI-61DAFB)![Skill](https://img.shields.io/badge/Skill-PostgreSQL-61DAFB)![Skill](https://img.shields.io/badge/Skill-SQLAlchemy-61DAFB)![Skill](https://img.shields.io/badge/Skill-Opencode-61DAFB)
+![Skill](https://img.shields.io/badge/Skill-React-61DAFB?logo=react&logoColor=black)![Skill](https://img.shields.io/badge/Skill-Python-3776AB?logo=python&logoColor=white)![Skill](https://img.shields.io/badge/Skill-FastAPI-009688?logo=fastapi&logoColor=white)![Skill](https://img.shields.io/badge/Skill-PostgreSQL-4169E1?logo=postgresql&logoColor=white)![Skill](https://img.shields.io/badge/Skill-SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)![Skill](https://img.shields.io/badge/Skill-Opencode-61DAFB)
 </td>
 
 <td width="40%">
-  <a href="https://kitchyy.up.railway.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/sarodriguezqueirolo/inventario-restaurante" target="_blank" rel="noopener noreferrer">
     <picture>
-      <img alt="Kitchy" src="/sarodriguezqueirolo/kitchy.svg" width="100%"/>
+      <img alt="Kitchy" src="https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/kitchy.svg" width="100%"/>
     </picture>
   </a>
 </td>
 </tr></table> 
-
-## Código Abierto 
-
-<table></table> 
 

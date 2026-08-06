@@ -23,9 +23,9 @@ Full Stack Developer - Perezemmalva SLU (05/2026 - Actualidad)
   - Migración de librería de generación de PDFs: Migración de librería de generación de PDFs (wkhtmltopdf → iTextSharp)
   - Recuperación de infraestructura sin documentación: Identificación del hosting real mediante análisis forense de DNS - Gestión de despliegues manuales a producción en ausencia de CI/CD
 
-Full Stack Developer - Perezemmalva SLU (05/2026 - Actualidad)
-  Desarrollo y mantenimiento de plataforma E-commerce con Next.js y Sanity CMS
-  - Mantenimiento de infraestructura en VPS: Gestión de contenedores Docker, renovación de certificados SSL y resolución de caídas del motor de búsqueda
+Desarrollador Web - Termogar.es (06/2026 - Actualidad)
+  Mantenimiento web de plataforma E-commerce con Next.js y Sanity CMS
+  - Mantenimiento web: Mantenimiento de plataforma E-commerce con Next.js y Sanity CMS
   - Auditoría de datos vía GROQ: Detección de ~€60k en inventario no publicado y corrección de stock inconsistente
 
 ------------------------------------------------------------
@@ -46,7 +46,7 @@ Técnico en Computacion e Informatica - Cibertec (08/2018 - 11/2022)
 ------------------------------------------------------------
 HABILIDADES PRINCIPALES
 ------------------------------------------------------------
-Python | PostgreSQL | Linux | Docker | React | ASP.NET MVC5 | Next.js | GROQ | Sanity CMS | TypeScript | FastAPI | SQLAlchemy | Opencode
+Python | PostgreSQL | Linux | Docker | React | ASP.NET MVC5 | C# | Microsoft SQL Server | FTP | Opencode | Next.js | TypeScript | GROQ | Sanity CMS | Deploy via FTP | FastAPI | SQLAlchemy
 
 ------------------------------------------------------------
 IDIOMAS

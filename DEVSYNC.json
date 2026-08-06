@@ -12,7 +12,22 @@
 		}
 	],
 	"githubUserName": "sarodriguezqueirolo",
-	"coreSkills": ["Python", "PostgreSQL", "Linux", "Docker", "React"],
+	"coreSkills": [
+		"Python",
+		"PostgreSQL",
+		"Linux",
+		"Docker",
+		"React",
+		"ASP.NET MVC5",
+		"C#",
+		"Microsoft SQL Server",
+		"FTP",
+		"Opencode",
+		"Next.js",
+		"TypeScript",
+		"GROQ",
+		"Sanity CMS"
+	],
 	"address": "Málaga, España",
 	"email": "sa.rodriguezqueirolo@gmail.com",
 	"phone": "+34 675 206 831",
@@ -34,7 +49,7 @@
 			{
 				"company": "Perezemmalva SLU",
 				"position": "Full Stack Developer",
-				"img": "/sarodriguezqueirolo/perezemmalva.jpeg",
+				"img": "https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/perezemmalva.jpeg",
 				"web": "https://www.perezemmalva.es/",
 				"description": "Desarrollo, migracion y mantenimiento de ERP y aplicaciones web",
 				"date": "05/2026 - Actualidad",
@@ -70,22 +85,22 @@
 				"skills": [
 					{
 						"name": "ASP.NET MVC5",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-512BD4?logo=dotnet&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/codeforces"
 					},
 					{
 						"name": "C#",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-C%23-339933)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-C%23-239120?logo=csharp&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/csharp"
 					},
 					{
 						"name": "Microsoft SQL Server",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-SQL%20Server-339933)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/microsoftsqlserver"
 					},
 					{
 						"name": "Deploy via FTP",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-FTP-339933)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-FTP-BF0000?logo=filezilla&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/filezilla"
 					},
 					{
@@ -98,9 +113,18 @@
 			{
 				"company": "Termogar.es",
 				"position": "Desarrollador Web",
+				"img": "https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/termogar_logo1-02.webp",
 				"web": "https://termogar.es",
 				"description": "Mantenimiento web de plataforma E-commerce con Next.js y Sanity CMS",
 				"date": "06/2026 - Actualidad",
+				"links": [
+					{
+						"name": "termogar.es",
+						"url": "https://termogar.es",
+						"mdBadge": "![Company](https://img.shields.io/badge/Company-Website-0ea5e9)",
+						"icon": "https://cdn.simpleicons.org/googlechrome"
+					}
+				],
 				"list": {
 					"title": "E-commerce — Next.js + Sanity CMS",
 					"items": [
@@ -146,8 +170,8 @@
 		"projects": [
 			{
 				"name": "Kitchy",
-				"img": "/sarodriguezqueirolo/kitchy.svg",
-				"web": "https://kitchyy.up.railway.app/",
+				"img": "https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/kitchy.svg",
+				"web": "https://github.com/sarodriguezqueirolo/inventario-restaurante",
 				"links": [
 					{
 						"name": "GitHub",
@@ -169,27 +193,27 @@
 				"skills": [
 					{
 						"name": "React",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-React-61DAFB)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-React-61DAFB?logo=react&logoColor=black)",
 						"icon": "https://cdn.simpleicons.org/react"
 					},
 					{
 						"name": "Python",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Python-61DAFB)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Python-3776AB?logo=python&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/python"
 					},
 					{
 						"name": "FastAPI",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-FastAPI-61DAFB)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-FastAPI-009688?logo=fastapi&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/fastapi"
 					},
 					{
 						"name": "PostgreSQL",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-PostgreSQL-61DAFB)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-PostgreSQL-4169E1?logo=postgresql&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/postgresql"
 					},
 					{
 						"name": "SQLAlchemy",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-SQLAlchemy-61DAFB)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/sqlalchemy"
 					},
 					{

@@ -34,6 +34,9 @@ jobs:
         run: bunx @jannael/devsync build
         continue-on-error: true
 
+      - name: Remove empty Open Source section from README
+        run: sed -i '/^## Código Abierto/,$d' README.md
+
       - name: Commit generated artifacts
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
