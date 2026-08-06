@@ -28,7 +28,7 @@ interface Props {
 	isLast?: boolean
 }
 
-const { company, position, date, description, list, skills } = Astro.props
+const { company, position, date, description, list, skills, web } = Astro.props
 ---
 
 <li class="{isLast ? '' : 'border-l-2 border-border'} relative ml-4 pb-12 pl-12">
@@ -48,7 +48,14 @@ const { company, position, date, description, list, skills } = Astro.props
 		{
 			position && company && (
 				<h3 class="text-xl font-bold">
-					{position} en <span class="text-accent">{company}</span>
+					{position} en{' '}
+					{web ? (
+						<a href={web} target="_blank" rel="noopener noreferrer" class="text-accent hover:underline">
+							{company}
+						</a>
+					) : (
+						<span class="text-accent">{company}</span>
+					)}
 				</h3>
 			)
 		}
