@@ -34,7 +34,7 @@ Backoffice legacy — ASP.NET MVC5
 </tr>
 <tr>
 <td>
-<h3>Perezemmalva SLU</h3>
+<h3>Termogar.es</h3>
 
 
 <p>Desarrollo y mantenimiento de plataforma E-commerce con Next.js y Sanity CMS</p>
@@ -48,9 +48,9 @@ E-commerce — Next.js + Sanity CMS
 </td>
 
 <td width="40%">
-  <a href="https://www.perezemmalva.es/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.termogar.es/" target="_blank" rel="noopener noreferrer">
     <picture>
-      <img alt="Perezemmalva SLU" src="/sarodriguezqueirolo/perezemmalva.jpeg" width="100%"/>
+      <img alt="Termogar" src="/sarodriguezqueirolo/perezemmalva.jpeg" width="100%"/>
     </picture>
   </a>
 </td>
