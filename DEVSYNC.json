@@ -34,7 +34,7 @@
 			{
 				"company": "Perezemmalva SLU",
 				"position": "Full Stack Developer",
-				"img": "/sarodriguezqueirolo/perezemmalva.jpeg",
+				"img": "https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/perezemmalva.jpeg",
 				"web": "https://www.perezemmalva.es/",
 				"description": "Desarrollo, migracion y mantenimiento de ERP y aplicaciones web",
 				"date": "05/2026 - Actualidad",
@@ -98,15 +98,24 @@
 			{
 				"company": "Termogar.es",
 				"position": "Desarrollador Web",
+				"img": "https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/termogar_logo1-02.webp",
 				"web": "https://termogar.es",
 				"description": "Mantenimiento web de plataforma E-commerce con Next.js y Sanity CMS",
 				"date": "06/2026 - Actualidad",
+				"links": [
+					{
+						"name": "termogar.es",
+						"url": "https://termogar.es",
+						"mdBadge": "![Company](https://img.shields.io/badge/Company-Website-0ea5e9)",
+						"icon": "https://cdn.simpleicons.org/googlechrome"
+					}
+				],
 				"list": {
 					"title": "E-commerce — Next.js + Sanity CMS",
 					"items": [
 						{
-							"highlight": "Mantenimiento web",
-							"description": "Mantenimiento de plataforma E-commerce con Next.js y Sanity CMS"
+							"highlight": "Mantenimiento de infraestructura en VPS",
+							"description": "Gestión de contenedores Docker, renovación de certificados SSL y resolución de caídas del motor de búsqueda"
 						},
 						{
 							"highlight": "Auditoría de datos vía GROQ",
@@ -161,8 +170,8 @@
 	"projects": [
 			{
 				"name": "Kitchy",
-				"img": "/sarodriguezqueirolo/kitchy.svg",
-				"web": "",
+				"img": "https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/kitchy.svg",
+				"web": "https://github.com/sarodriguezqueirolo/inventario-restaurante",
 				"links": [
 					{
 						"name": "GitHub",
