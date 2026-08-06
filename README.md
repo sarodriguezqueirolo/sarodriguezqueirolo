@@ -81,9 +81,4 @@ Kitchy highlights
     </picture>
   </a>
 </td>
-</tr></table> 
-
-## Código Abierto 
-
-<table></table> 
 
