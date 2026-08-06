@@ -15,7 +15,7 @@ export default defineConfig({
 
 	base: '/',
 
-	outDir: './dist',
+	outDir: './docs',
 
 	i18n: {
 		defaultLocale: defaultLang,
