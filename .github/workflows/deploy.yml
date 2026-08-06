@@ -28,9 +28,6 @@ jobs:
 
       - run: bun run build
 
-      - name: Fix asset paths for Devsync CV generation
-        run: mkdir -p dist/sarodriguezqueirolo && ln -sf ../_astro dist/sarodriguezqueirolo/_astro
-
       - name: Generate CV, README and LinkedIn
         run: bunx @jannael/devsync build
         continue-on-error: true
