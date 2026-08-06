@@ -29,7 +29,7 @@
 		"node": ">=22.12.0"
 	},
 	"devsync": {
-		"pathToCompiledCV": "./docs/[lang]/cv/index.html"
+		"pathToCompiledCV": "./dist/[lang]/cv/index.html"
 	},
 	"devDependencies": {
 		"@eslint/js": "10.0.1",
