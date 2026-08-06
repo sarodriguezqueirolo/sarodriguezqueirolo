@@ -13,7 +13,9 @@ export default defineConfig({
 
 	site: devsync.site,
 
-	base: '/sarodriguezqueirolo',
+	base: '/',
+
+	outDir: './docs',
 
 	i18n: {
 		defaultLocale: defaultLang,
