@@ -1,13 +1,13 @@
 {
 	"defaultLang": "es",
-	"site": "https://sarodriguezqueirolo.github.io",
+	"site": "https://sarodriguezqueirolo.github.io/sarodriguezqueirolo",
 	"name": "Santiago Alfredo Rodriguez Queirolo",
-	"img": "/imagen.png",
+	"img": "/sarodriguezqueirolo/imagen.png",
 	"socialMedia": [
 		{
 			"name": "LinkedIn",
 			"url": "https://www.linkedin.com/in/alfredo-rodriguez-695b603bb",
-			"icon": "/icons/linkedin.svg",
+			"icon": "/sarodriguezqueirolo/icons/linkedin.svg",
 			"mdBadge": "![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)"
 		}
 	],
@@ -34,7 +34,7 @@
 			{
 				"company": "Perezemmalva SLU",
 				"position": "Full Stack Developer",
-				"img": "https://sarodriguezqueirolo.github.io/perezemmalva.jpeg",
+				"img": "https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/perezemmalva.jpeg",
 				"web": "https://www.perezemmalva.es/",
 				"description": "Desarrollo, migracion y mantenimiento de ERP y aplicaciones web",
 				"date": "05/2026 - Actualidad",
@@ -98,7 +98,7 @@
 			{
 				"company": "Termogar.es",
 				"position": "Desarrollador Web",
-				"img": "https://sarodriguezqueirolo.github.io/termogar_logo1-02.webp",
+				"img": "https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/termogar_logo1-02.webp",
 				"web": "https://termogar.es",
 				"description": "Mantenimiento web de plataforma E-commerce con Next.js y Sanity CMS",
 				"date": "06/2026 - Actualidad",
@@ -170,14 +170,14 @@
 	"projects": [
 			{
 				"name": "Kitchy",
-				"img": "https://sarodriguezqueirolo.github.io/kitchy.svg",
+				"img": "https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/kitchy.svg",
 				"web": "https://github.com/sarodriguezqueirolo/inventario-restaurante",
 				"links": [
 					{
 						"name": "GitHub",
 						"url": "https://github.com/sarodriguezqueirolo/inventario-restaurante",
 						"mdBadge": "![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-181717?logo=github&logoColor=white)",
-						"icon": "/icons/github.svg"
+						"icon": "/sarodriguezqueirolo/icons/github.svg"
 					}
 				],
 				"description": "Sistema de gestión de inventario para restaurantes, con funcionalidades de gestión de recetas, ingredientes y platos.",
