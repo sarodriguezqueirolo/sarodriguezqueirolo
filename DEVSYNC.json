@@ -76,7 +76,7 @@
 					{
 						"name": "C#",
 						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-C%23-339933)",
-						"icon": "https://cdn.simpleicons.org/c"
+						"icon": "https://cdn.simpleicons.org/csharp"
 					},
 					{
 						"name": "Microsoft SQL Server",
@@ -135,34 +135,19 @@
 						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Sanity%20CMS-2496ED?logo=sanity&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/sanity"
 					},
-				{
-					"name": "Opencode",
-					"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Opencode-2496ED)",
-					"icon": "https://cdn.simpleicons.org/opencode"
-				},
-				{
-					"name": "Docker",
-					"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Docker-2496ED?logo=docker&logoColor=white)",
-					"icon": "https://cdn.simpleicons.org/docker"
-				},
-				{
-					"name": "SSH",
-					"mdBadge": "![Skill](https://img.shields.io/badge/Skill-SSH-2496ED)",
-					"icon": "https://cdn.simpleicons.org/openssh"
-				},
-				{
-					"name": "GitHub",
-					"mdBadge": "![Skill](https://img.shields.io/badge/Skill-GitHub-2496ED?logo=github&logoColor=white)",
-					"icon": "https://cdn.simpleicons.org/github"
-				}
-			]
-		}
-	],
-	"projects": [
+					{
+						"name": "Opencode",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Opencode-2496ED)",
+						"icon": "https://cdn.simpleicons.org/opencode"
+					}
+				]
+			}
+		],
+		"projects": [
 			{
 				"name": "Kitchy",
 				"img": "/sarodriguezqueirolo/kitchy.svg",
-				"web": "",
+				"web": "https://kitchyy.up.railway.app/",
 				"links": [
 					{
 						"name": "GitHub",
