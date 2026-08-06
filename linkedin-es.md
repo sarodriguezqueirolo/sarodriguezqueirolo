@@ -31,4 +31,5 @@ ASP.NET MVC5 | C# | Microsoft SQL Server | Deploy via FTP | Opencode | Next.js |
 ## Conectemos 
 
 - LinkedIn: https://www.linkedin.com/in/alfredo-rodriguez-695b603bb
+- Portfolio: https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/
 - Perfil de Github: https://github.com/sarodriguezqueirolo

@@ -1,15 +1,21 @@
 {
 	"defaultLang": "es",
-	"site": "https://sarodriguezqueirolo.github.io",
+	"site": "https://sarodriguezqueirolo.github.io/sarodriguezqueirolo",
 	"name": "Santiago Alfredo Rodriguez Queirolo",
-	"img": "/imagen.png",
+	"img": "/sarodriguezqueirolo/imagen.png",
 	"socialMedia": [
-		{
-			"name": "LinkedIn",
-			"url": "https://www.linkedin.com/in/alfredo-rodriguez-695b603bb",
-			"icon": "/icons/linkedin.svg",
-			"mdBadge": "![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)"
-		}
+	{
+		"name": "LinkedIn",
+		"url": "https://www.linkedin.com/in/alfredo-rodriguez-695b603bb",
+		"icon": "/sarodriguezqueirolo/icons/linkedin.svg",
+		"mdBadge": "![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)"
+	},
+	{
+		"name": "Portfolio",
+		"url": "https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/",
+		"icon": "/sarodriguezqueirolo/icons/devsync.svg",
+		"mdBadge": "![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=astro&logoColor=white)"
+	}
 	],
 	"githubUserName": "sarodriguezqueirolo",
 	"coreSkills": ["Python", "PostgreSQL", "Linux", "Docker", "React"],
@@ -34,7 +40,7 @@
 			{
 				"company": "Perezemmalva SLU",
 				"position": "Full Stack Developer",
-				"img": "https://sarodriguezqueirolo.github.io/perezemmalva.jpeg",
+				"img": "https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/perezemmalva.jpeg",
 				"web": "https://www.perezemmalva.es/",
 				"description": "Desarrollo, migracion y mantenimiento de ERP y aplicaciones web",
 				"date": "05/2026 - Actualidad",
@@ -70,22 +76,22 @@
 				"skills": [
 					{
 						"name": "ASP.NET MVC5",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-512BD4?logo=dotnet&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/codeforces"
 					},
 					{
 						"name": "C#",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-C%23-339933)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-C%23-239120?logo=csharp&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/c"
 					},
 					{
 						"name": "Microsoft SQL Server",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-SQL%20Server-339933)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/microsoftsqlserver"
 					},
 					{
 						"name": "Deploy via FTP",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-FTP-339933)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-FTP-BF0000?logo=filezilla&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/filezilla"
 					},
 					{
@@ -98,7 +104,7 @@
 			{
 				"company": "Termogar.es",
 				"position": "Desarrollador Web",
-				"img": "https://sarodriguezqueirolo.github.io/termogar_logo1-02.webp",
+				"img": "https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/termogar_logo1-02.webp",
 				"web": "https://termogar.es",
 				"description": "Mantenimiento web de plataforma E-commerce con Next.js y Sanity CMS",
 				"date": "06/2026 - Actualidad",
@@ -170,14 +176,14 @@
 	"projects": [
 			{
 				"name": "Kitchy",
-				"img": "https://sarodriguezqueirolo.github.io/kitchy.svg",
+				"img": "https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/kitchy.svg",
 				"web": "https://github.com/sarodriguezqueirolo/inventario-restaurante",
 				"links": [
 					{
 						"name": "GitHub",
 						"url": "https://github.com/sarodriguezqueirolo/inventario-restaurante",
 						"mdBadge": "![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-181717?logo=github&logoColor=white)",
-						"icon": "/icons/github.svg"
+						"icon": "/sarodriguezqueirolo/icons/github.svg"
 					}
 				],
 				"description": "Sistema de gestión de inventario para restaurantes, con funcionalidades de gestión de recetas, ingredientes y platos.",
@@ -193,27 +199,27 @@
 				"skills": [
 					{
 						"name": "React",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-React-61DAFB)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-React-61DAFB?logo=react&logoColor=black)",
 						"icon": "https://cdn.simpleicons.org/react"
 					},
 					{
 						"name": "Python",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Python-61DAFB)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-Python-3776AB?logo=python&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/python"
 					},
 					{
 						"name": "FastAPI",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-FastAPI-61DAFB)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-FastAPI-009688?logo=fastapi&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/fastapi"
 					},
 					{
 						"name": "PostgreSQL",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-PostgreSQL-61DAFB)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-PostgreSQL-4169E1?logo=postgresql&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/postgresql"
 					},
 					{
 						"name": "SQLAlchemy",
-						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-SQLAlchemy-61DAFB)",
+						"mdBadge": "![Skill](https://img.shields.io/badge/Skill-SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)",
 						"icon": "https://cdn.simpleicons.org/sqlalchemy"
 					},
 					{

@@ -13,7 +13,7 @@ export default defineConfig({
 
 	site: devsync.site,
 
-	base: '/',
+	base: '/sarodriguezqueirolo',
 
 	outDir: './dist',
 

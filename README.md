@@ -4,7 +4,7 @@
 
 Técnico en Informática y Desarrollador con experiencia en soporte técnico, gestión de CRM (Salesforce) y diseño de arquitecturas backend.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-rodriguez-695b603bb)[![Academics](https://img.shields.io/badge/Academics-9C27B0?style=flat&logo=education&logoColor=white)](https://github.com/sarodriguezqueirolo/sarodriguezqueirolo/tree/main/academics)![Languages](https://img.shields.io/badge/Languages-Espa%C3%B1ol%20%2F%20English-1f6feb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-rodriguez-695b603bb)[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=astro&logoColor=white)](https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/)[![Academics](https://img.shields.io/badge/Academics-9C27B0?style=flat&logo=education&logoColor=white)](https://github.com/sarodriguezqueirolo/sarodriguezqueirolo/tree/main/academics)![Languages](https://img.shields.io/badge/Languages-Espa%C3%B1ol%20%2F%20English-1f6feb)
 
 ## Experiencia profesional 
 
@@ -21,13 +21,13 @@ Backoffice legacy — ASP.NET MVC5
 </ul>
 </br>
 
-![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-339933)![Skill](https://img.shields.io/badge/Skill-C%23-339933)![Skill](https://img.shields.io/badge/Skill-SQL%20Server-339933)![Skill](https://img.shields.io/badge/Skill-FTP-339933)![Skill](https://img.shields.io/badge/Skill-Opencode-339933)
+![Skill](https://img.shields.io/badge/Skill-ASP.NET%20MVC5-512BD4?logo=dotnet&logoColor=white)![Skill](https://img.shields.io/badge/Skill-C%23-239120?logo=csharp&logoColor=white)![Skill](https://img.shields.io/badge/Skill-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)![Skill](https://img.shields.io/badge/Skill-FTP-BF0000?logo=filezilla&logoColor=white)![Skill](https://img.shields.io/badge/Skill-Opencode-339933)
 </td>
 
 <td width="40%">
   <a href="https://www.perezemmalva.es/" target="_blank" rel="noopener noreferrer">
     <picture>
-      <img alt="Perezemmalva SLU" src="https://sarodriguezqueirolo.github.io/perezemmalva.jpeg" width="100%"/>
+      <img alt="Perezemmalva SLU" src="https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/perezemmalva.jpeg" width="100%"/>
     </picture>
   </a>
 </td>
@@ -50,7 +50,7 @@ E-commerce — Next.js + Sanity CMS
 <td width="40%">
   <a href="https://termogar.es" target="_blank" rel="noopener noreferrer">
     <picture>
-      <img alt="Termogar.es" src="https://sarodriguezqueirolo.github.io/termogar_logo1-02.webp" width="100%"/>
+      <img alt="Termogar.es" src="https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/termogar_logo1-02.webp" width="100%"/>
     </picture>
   </a>
 </td>
@@ -71,13 +71,13 @@ Kitchy highlights
 </ul>
 </br>
 
-![Skill](https://img.shields.io/badge/Skill-React-61DAFB)![Skill](https://img.shields.io/badge/Skill-Python-61DAFB)![Skill](https://img.shields.io/badge/Skill-FastAPI-61DAFB)![Skill](https://img.shields.io/badge/Skill-PostgreSQL-61DAFB)![Skill](https://img.shields.io/badge/Skill-SQLAlchemy-61DAFB)![Skill](https://img.shields.io/badge/Skill-Opencode-61DAFB)
+![Skill](https://img.shields.io/badge/Skill-React-61DAFB?logo=react&logoColor=black)![Skill](https://img.shields.io/badge/Skill-Python-3776AB?logo=python&logoColor=white)![Skill](https://img.shields.io/badge/Skill-FastAPI-009688?logo=fastapi&logoColor=white)![Skill](https://img.shields.io/badge/Skill-PostgreSQL-4169E1?logo=postgresql&logoColor=white)![Skill](https://img.shields.io/badge/Skill-SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)![Skill](https://img.shields.io/badge/Skill-Opencode-61DAFB)
 </td>
 
 <td width="40%">
   <a href="https://github.com/sarodriguezqueirolo/inventario-restaurante" target="_blank" rel="noopener noreferrer">
     <picture>
-      <img alt="Kitchy" src="https://sarodriguezqueirolo.github.io/kitchy.svg" width="100%"/>
+      <img alt="Kitchy" src="https://sarodriguezqueirolo.github.io/sarodriguezqueirolo/kitchy.svg" width="100%"/>
     </picture>
   </a>
 </td>
